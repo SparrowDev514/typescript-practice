@@ -1,0 +1,25 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparrowDev514/typescript-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SparrowDev514/typescript-practice/issues"
+  },
+  "homepage": "https://github.com/SparrowDev514/typescript-practice#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.25",
+    "typescript": "^4.6.3"
+  }
+}
